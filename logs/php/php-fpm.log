@@ -1,2 +1,7 @@
 [09-Mar-2024 12:14:42] NOTICE: fpm is running, pid 2527
 [09-Mar-2024 12:14:42] NOTICE: ready to handle connections
+[09-Mar-2024 12:20:20] NOTICE: Terminating ...
+[09-Mar-2024 12:20:20] NOTICE: Terminating ...
+[09-Mar-2024 12:20:20] NOTICE: exiting, bye-bye!
+[09-Mar-2024 12:20:21] NOTICE: fpm is running, pid 2830
+[09-Mar-2024 12:20:21] NOTICE: ready to handle connections
